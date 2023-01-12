@@ -4,7 +4,7 @@ import (
 	"log"
 
 	"github.com/gin-gonic/gin"
-	"github.com/jjeanjacques10/crud-golang/src/routes"
+	"github.com/jjeanjacques10/crud-golang/src/controller/routes"
 	"github.com/joho/godotenv"
 )
 
