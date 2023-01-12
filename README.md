@@ -8,6 +8,7 @@ Projeto desenvolvido no curso de GoLang do canal HunCoding
 
 - [Godotenv](https://github.com/joho/godotenv)
 - [Gin Web Framework](https://github.com/gin-gonic/gin)
+- [GO Playground Validator](https://github.com/go-playground/validator)
 
 ## Exemplos de request
 
@@ -18,7 +19,7 @@ curl --location --request POST 'http://localhost:8080/createUser' \
 --header 'Content-Type: application/json' \
 --data-raw '{
     "email": "jean.jacques@teste.com",
-    "password": "12345",
+    "password": "!23456*",
     "name": "Jean Jacques",
     "age": 23
 }'
