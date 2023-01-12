@@ -7,3 +7,4 @@ Projeto desenvolvido no curso de GoLang do canal HunCoding
 ## Packages
 
 - [Godotenv](https://github.com/joho/godotenv)
+- [Gin Web Framework](https://github.com/gin-gonic/gin)
