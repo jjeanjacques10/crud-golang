@@ -9,6 +9,16 @@ Projeto desenvolvido no curso de GoLang do canal HunCoding
 - [Godotenv](https://github.com/joho/godotenv)
 - [Gin Web Framework](https://github.com/gin-gonic/gin)
 - [GO Playground Validator](https://github.com/go-playground/validator)
+- [Zap - Logging in Go](https://github.com/uber-go/zap)
+
+## Environment
+
+Arquivo .env
+
+``` .env
+LOG_OUTPUT=stdout
+LOG_LEVEL=INFO
+```
 
 ## Exemplos de request
 
